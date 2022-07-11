@@ -6,15 +6,34 @@
 
 
 We follow this video link : 
+https://www.youtube.com/watch?v=w-V1pMrGAjc
+
 We get all the data about the weather forecast from the following site / URL .:- https://openweathermap.org/api
+
+
 Now., we will go to the ‘ API ‘ tab., and currently we are accessing the following tab :-  Current Weather Data
+
+
 So here., we can click on the API doc., which would show the API documentation.,!!..,,.. Here., / from there., we will.,/are planning to consider/take into account., the first API call.,::—                                             api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+
 For this., we only need to give/enter the city name and the API KEY., hence we are choosing this one.,!!..
+
+
 For the API key., we can generate it from this website itself., click on your account > My API Keys > and over here., you can generate an API key.!!.    ( based on your requirements .!!. )
+
+
 However., note that we need to store the API Key in our local system and access it only via python using os., so that it remains confidential,.!!. Follow the following link video:-,..,                                                                  aa
-      For the security key., go to the folder where. The file has been stored and give the command ., nano .bash_profile ., and then follow the things as mentioned in the video., now the part which is not mentioned in the video is., after saving the changes ., press enter and exit, and then you will have to give the following command :— source .bash_profile    ., —> to make the changes commit/effective.!!.
+https://www.youtube.com/watch?v=5iWhQWVXosUs
+
+
+		For the security key., go to the folder where. The file has been stored and give the command ., nano .bash_profile ., and then follow the things as mentioned in the video., now the part which is not mentioned in the video is., after saving the changes ., press enter and exit, and then you will have to give the following command :— source .bash_profile    ., —> to make the changes commit/effective.!!.
+
+
 now., when you will run the code., mentioning the API secret key., it will print the results.!!.
-So., now., coming back to the API application., we will write our own API link.,/ URL., based on the one that we have/had got from open weather . com ., which is mentioned in point number .(o) 4 .!!.   
+
+
+		So., now., coming back to the API application., we will write our own API link.,/ URL., based on the one that we have/had got from open weather . com ., which is mentioned in point number .(o) 4 .!!.   
 
 
          DATA INTERPRETATION><.,::—!!                                              
